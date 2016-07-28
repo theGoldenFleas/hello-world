@@ -1,2 +1,3 @@
 # hello-world
-My very first repository on Github, such a great moment!
+
+Should be studying thermodynamics right now...
